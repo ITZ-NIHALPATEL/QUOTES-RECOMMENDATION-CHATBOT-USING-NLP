@@ -1,0 +1,52 @@
+version: "3.1"
+
+intents:
+  - greet
+  - motivation
+  - inspiration
+  - love
+  - funny
+  - success
+  - satisfied
+  - not_satisfied
+  - goodbye
+
+responses:
+  utter_greet:
+    - text: "Hello! 😊 What kind of quote would you like today? Motivation, Inspiration, Love, Success, or Funny?"
+
+  utter_motivation:
+    - text: "💪 Success is not final, failure is not fatal: It is the courage to continue that counts."
+    - text: "🔥 Push yourself, because no one else is going to do it for you."
+
+  utter_inspiration:
+    - text: "✨ Believe you can and you're halfway there."
+    - text: "🌟 Dream big and dare to fail."
+
+  utter_love:
+    - text: "❤️ Love is not about how many days you’ve been together, but how much you love each other every day."
+    - text: "💕 Where there is love, there is life."
+
+  utter_funny:
+    - text: "😂 I'm not lazy, I'm on energy-saving mode."
+    - text: "🤣 Life is short. Smile while you still have teeth."
+
+  utter_success:
+    - text: "🏆 Success usually comes to those who are too busy to be looking for it."
+    - text: "🚀 Don’t watch the clock; do what it does. Keep going."
+
+  utter_ask_feedback:
+    - text: "Did you like this quote? 😊"
+
+  utter_ask_category:
+    - text: "Sorry about that! What other kind of quote would you like? Motivation, Inspiration, Love, Success, or Funny?"
+
+  utter_default:
+    - text: "I didn't quite understand that. Could you ask for a quote category like Motivation, Inspiration, Love, Success, or Funny?"
+
+  utter_goodbye:
+    - text: "Goodbye! Stay positive and keep smiling! ✨"
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

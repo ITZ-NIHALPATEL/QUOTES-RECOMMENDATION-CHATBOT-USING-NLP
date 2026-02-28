@@ -1,0 +1,79 @@
+version: "3.1"
+
+nlu:
+
+- intent: greet
+  examples: |
+    - hi
+    - hello
+    - hey
+    - good morning
+    - good evening
+    - hello there
+    - hey bot
+
+- intent: motivation
+  examples: |
+    - give me motivation
+    - i need motivation
+    - motivate me
+    - some motivational quote
+    - inspire me to work hard
+    - i feel lazy
+    - i need encouragement
+
+- intent: inspiration
+  examples: |
+    - give me inspiration
+    - inspire me
+    - i need inspiration
+    - inspirational quote please
+    - something inspiring
+
+- intent: love
+  examples: |
+    - give me a love quote
+    - romantic quote
+    - something about love
+    - love message
+    - quote about relationships
+
+- intent: funny
+  examples: |
+    - tell me something funny
+    - funny quote
+    - make me laugh
+    - joke please
+    - humorous quote
+
+- intent: success
+  examples: |
+    - success quote
+    - quote about success
+    - help me succeed
+    - something about achievement
+    - how to be successful
+
+- intent: satisfied
+  examples: |
+    - yes
+    - that helped
+    - nice quote
+    - i like it
+    - good one
+
+- intent: not_satisfied
+  examples: |
+    - no
+    - not helpful
+    - give another one
+    - something else
+    - i don't like it
+
+- intent: goodbye
+  examples: |
+    - bye
+    - goodbye
+    - see you
+    - talk later
+    - catch you later

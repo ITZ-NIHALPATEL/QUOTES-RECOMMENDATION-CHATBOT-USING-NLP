@@ -1,0 +1,23 @@
+# Environments
+venv/
+env/
+.env
+
+# Rasa specific
+.rasa/
+models/
+events.db
+rasa.db
+tracker_store.db
+
+# VS Code
+.vscode/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS Generated
+.DS_Store
+Thumbs.db

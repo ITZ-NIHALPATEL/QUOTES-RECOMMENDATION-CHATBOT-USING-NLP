@@ -1,0 +1,82 @@
+#### This file contains tests to evaluate that your bot behaves as expected.
+#### If you want to learn more, please see the docs: https://rasa.com/docs/rasa/testing-your-assistant
+
+stories:
+  - story: test greet and motivation path
+    steps:
+      - user: |
+          hi
+        intent: greet
+      - action: utter_greet
+      - user: |
+          give me motivation
+        intent: motivation
+      - action: utter_motivation
+      - action: utter_ask_feedback
+      - user: |
+          yes
+        intent: satisfied
+      - action: utter_greet
+
+  - story: test inspiration path
+    steps:
+      - user: |
+          inspire me
+        intent: inspiration
+      - action: utter_inspiration
+      - action: utter_ask_feedback
+      - user: |
+          nice quote
+        intent: satisfied
+      - action: utter_greet
+
+  - story: test love path
+    steps:
+      - user: |
+          give me a love quote
+        intent: love
+      - action: utter_love
+      - action: utter_ask_feedback
+      - user: |
+          that helped
+        intent: satisfied
+      - action: utter_greet
+
+  - story: test funny path
+    steps:
+      - user: |
+          tell me something funny
+        intent: funny
+      - action: utter_funny
+      - action: utter_ask_feedback
+      - user: |
+          good one
+        intent: satisfied
+      - action: utter_greet
+
+  - story: test success path
+    steps:
+      - user: |
+          success quote
+        intent: success
+      - action: utter_success
+      - action: utter_ask_feedback
+
+  - story: test not satisfied path
+    steps:
+      - user: |
+          give me motivation
+        intent: motivation
+      - action: utter_motivation
+      - action: utter_ask_feedback
+      - user: |
+          no
+        intent: not_satisfied
+      - action: utter_ask_category
+
+  - story: test say goodbye
+    steps:
+      - user: |
+          bye
+        intent: goodbye
+      - action: utter_goodbye
