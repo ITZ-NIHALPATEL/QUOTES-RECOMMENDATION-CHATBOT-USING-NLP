@@ -1,9 +1,9 @@
 from flask import Flask, render_template, request, jsonify
-import requests
+import requests,os
 
 app = Flask(__name__)
 
-RASA_URL = "http://localhost:5005/webhooks/rest/webhook"
+RASA_URL = "https://quotes-bot-939930549708.asia-south1.run.app/webhooks/rest/webhook"
 
 @app.route("/")
 def home():
@@ -22,4 +22,4 @@ def send():
     return jsonify(bot_response)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 5000)))
