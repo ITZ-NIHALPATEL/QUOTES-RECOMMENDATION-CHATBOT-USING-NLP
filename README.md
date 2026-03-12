@@ -7,12 +7,13 @@
 
   <!-- GitHub Badges -->
   <p>
-    <a href="https://github.com/ITZ-NIHALPATEL/QUOTES-RECOMMENDATION-CHATBOT-USING-NLP/stargazers"><img src="https://img.shields.io/github/stars/ITZ-NIHALPATEL/QUOTES-RECOMMENDATION-CHATBOT-USING-NLP?style=for-the-badge&color=yellow" alt="Stars Badge"/></a>
-    <a href="https://github.com/ITZ-NIHALPATEL/QUOTES-RECOMMENDATION-CHATBOT-USING-NLP/network/members"><img src="https://img.shields.io/github/forks/ITZ-NIHALPATEL/QUOTES-RECOMMENDATION-CHATBOT-USING-NLP?style=for-the-badge&color=orange" alt="Forks Badge"/></a>
-    <a href="https://github.com/ITZ-NIHALPATEL/QUOTES-RECOMMENDATION-CHATBOT-USING-NLP"><img src="https://img.shields.io/github/repo-size/ITZ-NIHALPATEL/QUOTES-RECOMMENDATION-CHATBOT-USING-NLP?style=for-the-badge&color=blue" alt="Repo Size Badge"/></a>
-    <a href="https://github.com/ITZ-NIHALPATEL/QUOTES-RECOMMENDATION-CHATBOT-USING-NLP/issues"><img src="https://img.shields.io/github/issues/ITZ-NIHALPATEL/QUOTES-RECOMMENDATION-CHATBOT-USING-NLP?style=for-the-badge&color=red" alt="Issues Badge"/></a>
-    <a href="https://github.com/ITZ-NIHALPATEL/QUOTES-RECOMMENDATION-CHATBOT-USING-NLP/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ITZ-NIHALPATEL/QUOTES-RECOMMENDATION-CHATBOT-USING-NLP?style=for-the-badge&color=success" alt="License Badge"/></a>
-    <a href="https://github.com/ITZ-NIHALPATEL/QUOTES-RECOMMENDATION-CHATBOT-USING-NLP/commits/main"><img src="https://img.shields.io/github/last-commit/ITZ-NIHALPATEL/QUOTES-RECOMMENDATION-CHATBOT-USING-NLP?style=for-the-badge&color=green" alt="Last Commit" /></a>
+    <a href="https://github.com/ITZ-NIHALPATEL/QUOTES-RECOMMENDATION-CHATBOT-USING-NLP/stargazers"><img src="https://img.shields.io/github/stars/ITZ-NIHALPATEL/QUOTES-RECOMMENDATION-CHATBOT-USING-NLP?style=for-the-badge&color=yellow&cacheSeconds=0" alt="Stars Badge"/></a>
+    <a href="https://github.com/ITZ-NIHALPATEL/QUOTES-RECOMMENDATION-CHATBOT-USING-NLP/network/members"><img src="https://img.shields.io/github/forks/ITZ-NIHALPATEL/QUOTES-RECOMMENDATION-CHATBOT-USING-NLP?style=for-the-badge&color=orange&cacheSeconds=0" alt="Forks Badge"/></a>
+    <a href="https://github.com/ITZ-NIHALPATEL/QUOTES-RECOMMENDATION-CHATBOT-USING-NLP"><img src="https://img.shields.io/github/repo-size/ITZ-NIHALPATEL/QUOTES-RECOMMENDATION-CHATBOT-USING-NLP?style=for-the-badge&color=blue&cacheSeconds=0" alt="Repo Size Badge"/></a>
+    <a href="https://github.com/ITZ-NIHALPATEL/QUOTES-RECOMMENDATION-CHATBOT-USING-NLP/issues"><img src="https://img.shields.io/github/issues/ITZ-NIHALPATEL/QUOTES-RECOMMENDATION-CHATBOT-USING-NLP?style=for-the-badge&color=red&cacheSeconds=0" alt="Issues Badge"/></a>
+    <a href="https://github.com/ITZ-NIHALPATEL/QUOTES-RECOMMENDATION-CHATBOT-USING-NLP/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ITZ-NIHALPATEL/QUOTES-RECOMMENDATION-CHATBOT-USING-NLP?style=for-the-badge&color=success&cacheSeconds=0" alt="License Badge"/></a>
+    <a href="https://github.com/ITZ-NIHALPATEL/QUOTES-RECOMMENDATION-CHATBOT-USING-NLP/commits/main"><img src="https://img.shields.io/github/last-commit/ITZ-NIHALPATEL/QUOTES-RECOMMENDATION-CHATBOT-USING-NLP?style=for-the-badge&color=green&cacheSeconds=0" alt="Last Commit" /></a>
+    <img src="https://komarev.com/ghpvc/?username=ITZ-NIHALPATEL&repo=QUOTES-RECOMMENDATION-CHATBOT-USING-NLP&style=for-the-badge" alt="Profile views" />
   </p>
 
   <!-- Tech Stack Badges -->
