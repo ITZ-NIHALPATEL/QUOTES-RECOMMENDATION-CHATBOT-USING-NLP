@@ -45,7 +45,7 @@ Experience the conversational AI chatbot live natively deployed via Google Cloud
 
 <p>
   <a href="https://quotes-frontend-939930549708.asia-south1.run.app" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Live%20Demo-Open%20App-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" style="border-radius:30px;">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80_Launch_Live_Demo-Open_App-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" style="border-radius:10000;">
   </a>
 </p>
 
