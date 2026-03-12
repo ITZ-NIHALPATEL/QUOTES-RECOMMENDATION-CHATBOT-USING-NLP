@@ -29,7 +29,7 @@
   </p>
 
   <h4>
-    <a href="https://quotes-frontend-939930549708.asia-south1.run.app">View Live Demo</a>
+    <a href="https://quotes-frontend-939930549708.asia-south1.run.app" target="_blank" rel="noopener noreferrer">View Live Demo</a>
     <span> · </span>
     <a href="https://github.com/ITZ-NIHALPATEL/QUOTES-RECOMMENDATION-CHATBOT-USING-NLP/issues">Report Bug</a>
     <span> · </span>
@@ -43,7 +43,11 @@
 
 Experience the conversational AI chatbot live natively deployed via Google Cloud Run:
 
-👉 **[Launch Live Demo](https://quotes-frontend-939930549708.asia-south1.run.app)** 
+<p>
+  <a href="https://quotes-frontend-939930549708.asia-south1.run.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Live%20Demo-Open%20App-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" style="border-radius:30px;">
+  </a>
+</p>
 
 ---
 
